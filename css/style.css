@@ -2,17 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,700,800&display=swap');
 
-/* body {
-	width: 90%;
-	margin: 0 auto;
-	font-family: sans-serif;
-	color: #FFF;
-	font-family: "Open Sans", sans-serif;
-	font-weight: 300;
-} */
 
 body {
 	width: 1200px;
+	margin: 0 auto;
 	background: url(../img/lf10-bg.jpg) no-repeat right center fixed;
 	background-size: cover;
 	font-family: "Open Sans", sans-serif;
