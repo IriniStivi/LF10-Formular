@@ -36,9 +36,8 @@ span {
 }
 
 .content {
-	width: 70%;
-	max-width: 70%;
-	margin: 2rem auto;
+	width: 80%;
+	margin-top: 2rem;
 	padding-left: 2rem;
 }
 
